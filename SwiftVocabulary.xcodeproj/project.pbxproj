@@ -14,6 +14,7 @@
 		E8233A4D22DD3E3200A2A1B6 /* WordsTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8233A4C22DD3E3200A2A1B6 /* WordsTableViewController.swift */; };
 		E8233A4F22DD3E5400A2A1B6 /* DefinitionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8233A4E22DD3E5400A2A1B6 /* DefinitionViewController.swift */; };
 		E8233A5122DD519200A2A1B6 /* VocabularyWord.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8233A5022DD519200A2A1B6 /* VocabularyWord.swift */; };
+		E8233A5322DD53CC00A2A1B6 /* VocabularyController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8233A5222DD53CC00A2A1B6 /* VocabularyController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		E8233A4C22DD3E3200A2A1B6 /* WordsTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WordsTableViewController.swift; sourceTree = "<group>"; };
 		E8233A4E22DD3E5400A2A1B6 /* DefinitionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DefinitionViewController.swift; sourceTree = "<group>"; };
 		E8233A5022DD519200A2A1B6 /* VocabularyWord.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VocabularyWord.swift; sourceTree = "<group>"; };
+		E8233A5222DD53CC00A2A1B6 /* VocabularyController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VocabularyController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 			children = (
 				E8233A3A22DD3C9000A2A1B6 /* AppDelegate.swift */,
 				E8233A4C22DD3E3200A2A1B6 /* WordsTableViewController.swift */,
+				E8233A5222DD53CC00A2A1B6 /* VocabularyController.swift */,
 				E8233A5022DD519200A2A1B6 /* VocabularyWord.swift */,
 				E8233A4E22DD3E5400A2A1B6 /* DefinitionViewController.swift */,
 				E8233A3E22DD3C9000A2A1B6 /* Main.storyboard */,
@@ -142,6 +145,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E8233A3B22DD3C9000A2A1B6 /* AppDelegate.swift in Sources */,
+				E8233A5322DD53CC00A2A1B6 /* VocabularyController.swift in Sources */,
 				E8233A4F22DD3E5400A2A1B6 /* DefinitionViewController.swift in Sources */,
 				E8233A4D22DD3E3200A2A1B6 /* WordsTableViewController.swift in Sources */,
 				E8233A5122DD519200A2A1B6 /* VocabularyWord.swift in Sources */,
